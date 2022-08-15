@@ -21,7 +21,7 @@ const Home = () => {
                 bodyPart={bodyPart}
                 setExercises={setExercises} />
         </Box>
-    )
-}
+    );
+};
 
 export default Home
