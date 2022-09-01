@@ -1,6 +1,6 @@
 ## Gym Exercises app
 
--Intended to display React.js skills
+-Intended to display React.js skills\
 -App incorporates 2 APIs, Youtube and ExercisesDB courtesy of RapidAPI, features reusable components (e.g. Horizontal Scrollbar).
 
 ### Available Scripts
